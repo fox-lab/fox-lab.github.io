@@ -5,7 +5,7 @@ title: About
 
 ## About Fox-Lab
 
-Fox-Lab is a team designing and making custom mechanical keyboards. We started our first Group Buy for [Orange TKL]({{ site.baseurl }}{% post_url 2017-06-16-Orange-TKL %}) on 06/16/2017. 
+Fox-Lab is a team designing and making custom mechanical keyboards. We started our first Group Buy for [Orange TKL]({{ site.baseurl }}{% post_url 2017-06-30-Orange-TKL %}) on 06/16/2017. 
 
 ## About senter
 
