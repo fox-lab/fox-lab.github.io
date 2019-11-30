@@ -1,5 +1,5 @@
 title:  "Fox-Lab"
-tagline: "Making Custom Aluminum Keyboards"
+tagline: "Custom Mechanical Keyboards"
 description:
 
 # Change to true for Disqus comments
@@ -16,7 +16,7 @@ menu:
 - {name: 'Contact', file: 'contact.html'}
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/#'}
+- {icon: 'instagram', link: 'https://www.instagram.com/fox_lab_keyboard/'}
 - {icon: 'envelope', link: 'mailto:runninghack@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
