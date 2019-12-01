@@ -8,10 +8,7 @@ disqus:
   disqus_shortname: 'runninghack'
 
 menu:
-- {name: 'Blog', file: 'blogs.html'}
-- {name: 'Group Buys', file: 'gbs.html'}
-- {name: 'Photos', file: 'photos.html'}
-- {name: 'Q&A', file: 'qa.html'}
+- {name: 'Group Buys', file: 'blogs.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
@@ -19,5 +16,3 @@ social:
 - {icon: 'instagram', link: 'https://www.instagram.com/fox_lab_keyboard/'}
 - {icon: 'envelope', link: 'mailto:runninghack@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
