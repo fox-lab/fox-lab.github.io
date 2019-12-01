@@ -5,7 +5,7 @@ author: "runninghack"
 categories: gbs
 tags: [keyboard, GB]
 image:
-  feature: orange1.png
+  feature: orange_80.jpg
 ---
 
 ## Group buy information
