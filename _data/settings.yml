@@ -1,17 +1,17 @@
-title:  "Fox-Lab"
-tagline: "Custom Mechanical Keyboards"
-description:
+# title:  "Fox-Lab"
+# tagline: "Custom Mechanical Keyboards"
+# description:
 
-# Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'runninghack'
+# # Change to true for Disqus comments
+# disqus:
+#   comments: false
+#   disqus_shortname: 'runninghack'
 
-menu:
-- {name: 'Group Buys', file: 'blogs.html'}
-- {name: 'About', file: 'about.html'}
-- {name: 'Contact', file: 'contact.html'}
+# menu:
+# - {name: 'Group Buys', file: 'blogs.html'}
+# - {name: 'About', file: 'about.html'}
+# - {name: 'Contact', file: 'contact.html'}
 
-social:
-- {icon: 'instagram', link: 'https://www.instagram.com/fox_lab_keyboard/'}
-- {icon: 'envelope', link: 'mailto:runninghack@gmail.com'}
+# social:
+# - {icon: 'instagram', link: 'https://www.instagram.com/fox_lab_keyboard/'}
+# - {icon: 'envelope', link: 'mailto:runninghack@gmail.com'}
